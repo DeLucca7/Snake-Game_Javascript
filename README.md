@@ -1,7 +1,6 @@
 # Snake-Game_Javascript 🐍
-The traditional Snake Game using Javascript.
 
-The traditional Snake Game using Javascript.
+_The traditional Snake Game using Javascript._
 
 The only rule is:
 
