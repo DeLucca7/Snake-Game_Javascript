@@ -1,9 +1,11 @@
+/*Definindo todos elemento dentro da tag <body>*/
 body{
-    height: 95vh;
-    width: 95;
+    height: 88vh;
+    width: 88;
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
     color: rgb(44, 139, 44);
+    text-decoration: underline;
 }
