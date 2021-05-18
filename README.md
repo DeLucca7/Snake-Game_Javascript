@@ -13,3 +13,7 @@ You can control the snake using yours keys on keyboard.
 ##           :apple:Eat as many apples as you can, that way the Snake will grow​.:apple:
 
 Play the [game](https://delucca7.github.io/Snake-Game_Javascript/) and enjoy it!
+
+#### Credits.
+
+Digital Innovation One
